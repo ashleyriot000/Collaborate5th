@@ -673,12 +673,16 @@ PrefabInstance:
       value: "\uD578\uB4DC\uBC31"
       objectReference: {fileID: 0}
     - target: {fileID: 8186025080498439712, guid: ff7558b24651c85408ef8d5f13b06b6e, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 8186025080498439712, guid: ff7558b24651c85408ef8d5f13b06b6e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.034
       objectReference: {fileID: 0}
     - target: {fileID: 8186025080498439712, guid: ff7558b24651c85408ef8d5f13b06b6e, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.409
+      value: -0.71
       objectReference: {fileID: 0}
     - target: {fileID: 8186025080498439712, guid: ff7558b24651c85408ef8d5f13b06b6e, type: 3}
       propertyPath: m_LocalPosition.z
