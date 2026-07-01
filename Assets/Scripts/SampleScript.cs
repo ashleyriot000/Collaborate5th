@@ -2,5 +2,6 @@ using UnityEngine;
 
 public class SampleScript : MonoBehaviour
 {
-    public string _name = "ÀÌÁöÈÆ";
+    public string _name = "ì´ì¢…ì¸";
+
 }
