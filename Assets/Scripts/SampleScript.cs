@@ -2,15 +2,6 @@ using UnityEngine;
 
 public class SampleScript : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    public string _name = "이종인";
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
