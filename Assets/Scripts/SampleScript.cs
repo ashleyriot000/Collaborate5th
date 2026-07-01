@@ -2,6 +2,6 @@ using UnityEngine;
 
 public class SampleScript : MonoBehaviour
 {
+    public string _name = "이종인";
 
-    public string _name = "최예지";
 }
